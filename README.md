@@ -1,14 +1,13 @@
-### Olá! Sou Júlio Morais 
+### Olá! Sou Júlio Morais 👋
 
-[![LinkedIn](![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](www.linkedin.com/in/julio-morais-8843551b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-morais-8843551b4)
 
-Tecnologias de estudo
+#### Tecnologias de Estudo 🚀
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt=html5 src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
+    <img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
+    <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" />
+    <img alt="Java" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java" />
+    <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" />
 </div>
-
-<div style="display: inline_block"><br/>
-    <img aling="center" alt=css3 src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>
-</div>
-
