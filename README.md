@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! Sou Júlio Morais 
 
-<!--
-**eujuliomorais/eujuliomorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](www.linkedin.com/in/julio-morais-8843551b4)
 
-Here are some ideas to get you started:
+Tecnologias de estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+    <img aling="center" alt=html5 src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
+</div>
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt=css3 src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>
+</div>
+
