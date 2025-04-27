@@ -14,5 +14,7 @@
 #### Conecte-se comigo! 
 
 <div style="display: flex; align-items: center; gap: 10px;">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-morais-8843551b4)
+
 </div>
