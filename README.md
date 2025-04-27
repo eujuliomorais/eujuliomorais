@@ -24,4 +24,3 @@ Aluno do curso de graduação em Engenharia de Software da Universidade Federal 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-morais-8843551b4)
 </div>
 
-<hr>
