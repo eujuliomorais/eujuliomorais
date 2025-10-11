@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Júlio 👋  
-Aluno do curso de graduação em Engenharia de Software da Universidade Federal do Ceará.
+Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 <hr>
 
 #### Tecnologias e Ferramentas 🚀
