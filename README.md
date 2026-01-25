@@ -19,7 +19,7 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 
 <hr>
 
-### 📊 Minhas Estatísticas
+#### Minhas Estatísticas 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujuliomorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
