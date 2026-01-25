@@ -4,18 +4,8 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 
 #### Tecnologias e Ferramentas 🚀
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/e6fea164cfe9373591d8b46fd2abd05c3d74f3f400adf9b5946a47fc3eac4e13/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/androidstudio/androidstudio-original-wordmark.svg
-" alt="AndroidStudio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,react,postgres,androidstudio,git,github" alt="Minhas Tecnologias" />
 </div>
 
 <hr>
