@@ -6,7 +6,7 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 #### Tecnologias e Ferramentas 🚀
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,materialui,react,next,node.js,spring,electron,postgres,firebase,androidstudio,docker,aws,git,github" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,materialui,react,nextjs,nodejs,spring,electron,postgres,firebase,androidstudio,docker,aws,git,github" alt="Minhas Tecnologias" />
 </div>
 
 <hr>
