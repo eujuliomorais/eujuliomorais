@@ -3,7 +3,7 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 
 <hr>
 
-#### Tecnologias e Ferramentas 🚀
+#### Linguagens, tecnologias e ferramentas 🚀
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,materialui,react,nextjs,nodejs,spring,electron,postgres,firebase,androidstudio,docker,aws,git,github" alt="Minhas Tecnologias" />
@@ -20,7 +20,7 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
 
 <hr>
 
-#### Minhas Estatísticas 📊
+#### Minhas estatísticas 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujuliomorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
