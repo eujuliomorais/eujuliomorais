@@ -1,11 +1,12 @@
 ### Olá! Eu sou o Júlio 👋  
 Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
+
 <hr>
 
 #### Tecnologias e Ferramentas 🚀
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,react,materialui,postgres,firebase,electron,androidstudio,docker,aws,git,github" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,html,css,react,materialui,postgres,firebase,electron,androidstudio,docker,aws,git,github" alt="Minhas Tecnologias" />
 </div>
 
 <hr>
@@ -25,4 +26,3 @@ Aluno do curso de Engenharia de Software da Universidade Federal do Ceará.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujuliomorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliomorais&layout=compact&langs_count=7&theme=radical&hide=python"/>
 </div>
-
